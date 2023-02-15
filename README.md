@@ -6,6 +6,8 @@
 
 博客：https://blog.misaka.rest/
 
+GitLab：https://gitlab.com/Misaka-blog
+
 TG频道：https://t.me/misakanocchannel
 
 TG群：https://t.me/misakanoc
