@@ -2,9 +2,9 @@
 
 我是MisakaNO，也叫小御坂。喜欢玩音游、写代码的高中生一枚！
 
-首页：https://www.misaka.rest/
+首页：https://www.misaka.cyou/
 
-博客：https://blog.misaka.rest/
+博客：https://blog.misaka.cyou/
 
 GitLab：https://gitlab.com/Misaka-blog
 
